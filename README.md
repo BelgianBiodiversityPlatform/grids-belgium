@@ -1,5 +1,4 @@
-![screenshot1](https://github.com/BelgianBiodiversityPlatform/grids-belgium/raw/master/grid1.png)
-![screenshot2](https://github.com/BelgianBiodiversityPlatform/grids-belgium/raw/master/grid2.png)
+![screenshot1 - IFBL grid](https://github.com/BelgianBiodiversityPlatform/grids-belgium/raw/master/grid2.png)
 
 In Belgium, (historical) biodiversity data often refers to two (nonstandard) grids for geolocation: IFBL and (so-called) UTM5.
 
