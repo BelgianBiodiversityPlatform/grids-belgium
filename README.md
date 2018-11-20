@@ -1,3 +1,6 @@
+![screenshot1](https://github.com/BelgianBiodiversityPlatform/grids-belgium/raw/master/grid1.png)
+![screenshot2](https://github.com/BelgianBiodiversityPlatform/grids-belgium/raw/master/grid2.png)
+
 In Belgium, (historical) biodiversity data often refers to two (nonstandard) grids for geolocation: IFBL and (so-called) UTM5.
 
 The IFBL grid consists of 4km-wide squares over Belgium. Those 4km squares are also subdivided in 16 1km-wide squares. Details about the grid can be found on [Atlas de la Flore de Wallonie : IFBL](http://biodiversite.wallonie.be/fr/atlas-de-la-flore-de-wallonie-ifbl.includehtml?IDC=807&IDD=1351)(in French).
